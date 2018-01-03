@@ -1,13 +1,16 @@
-# Current Learning
-Stanford Networking
 
 # teachmyselfcs
 Repo for my self-teaching computer science road
 
-# Programming
+# Current
 
-* Software Development
-    1. https://courses.edx.org/dashboard/programs/a78e76d2-7e0b-4865-8013-0e037ebdc0f9/
+# Database Systems
+
+* CMU-15-213: Intro to Computer Systems
+    1. http://www.cs.cmu.edu/~213/schedule.html
+
+
+# Programming
 
 * Berkeley-CS61A: Structure and Interpretation of Computer Programs
     1. https://cs61a.org/
@@ -31,7 +34,7 @@ Repo for my self-teaching computer science road
 
 # Computer Systems
 
-* CMU-12-213: Intro to Computer Systems
+* CMU-15-213: Intro to Computer Systems
     1. http://www.cs.cmu.edu/~213/schedule.html
 
 * Berkeley-CS61C: http://www-inst.eecs.berkeley.edu/~cs61c/fa17/
