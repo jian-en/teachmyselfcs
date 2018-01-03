@@ -1,13 +1,21 @@
+# Current Learning
+Stanford Networking
+
 # teachmyselfcs
 Repo for my self-teaching computer science road
 
 # Programming
+
+* Software Development
+    1. https://courses.edx.org/dashboard/programs/a78e76d2-7e0b-4865-8013-0e037ebdc0f9/
 
 * Berkeley-CS61A: Structure and Interpretation of Computer Programs
     1. https://cs61a.org/
     2. http://www.composingprograms.com/
 
 # Datastructures and Algorithm
+
+* Berkeley-CS61B-Data Structures: https://inst.eecs.berkeley.edu/~cs61b/fa17/
 
 * MIT-6.006: Introduction to Algorithms
     1. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
@@ -25,3 +33,10 @@ Repo for my self-teaching computer science road
 
 * CMU-12-213: Intro to Computer Systems
     1. http://www.cs.cmu.edu/~213/schedule.html
+
+* Berkeley-CS61C: http://www-inst.eecs.berkeley.edu/~cs61c/fa17/
+
+# Database Systems
+
+* Intro to Database Systems
+    1. http://www.cs186berkeley.net/home
